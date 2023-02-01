@@ -1,0 +1,14 @@
+
+    # required
+    rcutfac 4.27269845180499
+    twojmax 6
+
+    #  optional
+    rfac0 0.9524672545784193
+    rmin0 0.0
+    bzeroflag 0
+    quadraticflag 0
+    wselfallflag 0
+    chemflag 0
+    bnormflag 0
+    
